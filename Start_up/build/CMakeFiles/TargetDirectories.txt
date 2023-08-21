@@ -1,0 +1,3 @@
+/home/pi/software/Start_up/build/CMakeFiles/rebuild_cache.dir
+/home/pi/software/Start_up/build/CMakeFiles/Start.dir
+/home/pi/software/Start_up/build/CMakeFiles/edit_cache.dir
